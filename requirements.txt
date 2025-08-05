@@ -1,0 +1,14 @@
+flask
+gunicorn
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+fpdf
+mlxtend
+networkx
+matplotlib
+seaborn
+imblearn
